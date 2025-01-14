@@ -1,8 +1,6 @@
 # Hello I am Susana
 
-![Susana Loaiza](./img/susana.jpg)
-
-## About me
+<img src="img/susana.jpg" alt="susana" width="400" heigth="200">
 
 I love learning new things and am always eager to expand my horizons. As a team player, I value collaboration
 and believe that kindness goes a long way. I also enjoy a good conversation and look forward to connecting with you!
