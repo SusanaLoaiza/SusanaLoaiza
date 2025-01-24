@@ -1,4 +1,4 @@
-## Welcome to my profile ✌️
+![Welcome](./welcome.gif)
 
 <span style="font-family: 'Trebuchet MS'; font-size: 20px; font-positio">Hi I am Susana </span>
 
